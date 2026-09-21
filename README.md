@@ -28,37 +28,6 @@ Olá, sou o Fábio, gosto de música, animais e TCG.
   <img src="https://img.shields.io/badge/Power_BI-000000?style=for-the-badge&logo=powerbi&logoColor=00FF00&border=00FF00">
 </div>
 
----
-
-### `> ls -la ~/projetos`
-
-<div align="center">
-  <a href="https://github.com/coragi-py/Linus">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=coragi-py&repo=Linus&bg_color=000000&title_color=00FF00&text_color=00FF00&icon_color=00FF00&border_color=00FF00&border_radius=0" alt="Projeto Linus" />
-  </a>
-</div>
-
----
-
-### `> htop --user coragi-py`
-<br>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=coragi-py&background=000000&border=00FF00&stroke=00FF00&ring=00FF00&fire=00FF00&currStreakNum=00FF00&currStreakLabel=00FF00&sideNums=00FF00&sideLabels=00FF00&dates=00FF00&borderRadius=0" alt="GitHub Streak" />
-</div>
-<br>
-
-### `> ./run_snake.sh`
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/coragi-py/coragi-py/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/coragi-py/coragi-py/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/coragi-py/coragi-py/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
----
-
 ### `> ping -c 4 contatos`
 
 <div align="center">
