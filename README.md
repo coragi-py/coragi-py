@@ -41,31 +41,11 @@ Olá, sou o Fábio, gosto de música, animais e TCG.
 ---
 
 ### `> htop --user coragi-py`
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=coragi-py&show_icons=true&bg_color=000000&title_color=00FF00&text_color=00FF00&icon_color=00FF00&border_color=00FF00&border_radius=0&hide_border=false" alt="GitHub Stats" height="195"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coragi-py&layout=compact&bg_color=000000&title_color=00FF00&text_color=00FF00&border_color=00FF00&border_radius=0" alt="Top Languages" height="195"/>
-</div>
 <br>
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=coragi-py&background=000000&border=00FF00&stroke=00FF00&ring=00FF00&fire=00FF00&currStreakNum=00FF00&currStreakLabel=00FF00&sideNums=00FF00&sideLabels=00FF00&dates=00FF00&borderRadius=0" alt="GitHub Streak" />
 </div>
 <br>
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=coragi-py&bg_color=000000&color=00FF00&line=00FF00&point=00FF00&area=true&hide_border=false&border_color=00FF00&radius=0" alt="Activity Graph" />
-</div>
-
----
-
-### `> make trophies`
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=coragi-py&theme=matrix&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
-  </a>
-</div>
-
----
 
 ### `> ./run_snake.sh`
 
