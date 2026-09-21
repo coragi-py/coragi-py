@@ -5,16 +5,14 @@
 -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00FF00&background=000000&center=true&vCenter=true&width=700&lines=root%40wataru%3A~%23+Fábio+Y.+Saruwataru;>_Infraestrutura+%26+Desenvolvimento;>_Engenharia+de+Software+%40+UMC" alt="Typing Banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00FF00&background=000000&center=true&vCenter=true&width=750&lines=root%40wataru%3A~%23%20F%C3%A1bio%20Y.%20Saruwataru;%3E_Infraestrutura%20%26%20Desenvolvimento;%3E_Engenharia%20de%20Software%20%40%20UMC" alt="Typing Banner" />
 </div>
 
 <br>
 
 ### `> whoami`
 
-Fala! Sou o Fábio, estudante de Engenharia de Software e atuo na intersecção entre **Infraestrutura e Desenvolvimento**. Atualmente, garanto que os sistemas continuem rodando e gero inteligência de dados operacionais para o setor logístico. 
-
-Prefiro a abordagem rústica: terminal aberto, scripts resolvendo problemas reais e arquiteturas que funcionam sem frescura. Quando não estou em um ambiente Linux configurando dockers ou desenhando APIs, provavelmente estou ouvindo um som do Opeth, fazendo pixel art na MYK ou ajustando meu deck de Traptrix.
+Olá, sou o Fábio, gosto de música, animais e TCG.
 
 ---
 
