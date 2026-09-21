@@ -12,7 +12,7 @@
 
 ### `> whoami`
 
-Olá, sou o Fábio, gosto de música, animais e TCG.
+Olá, sou o Fábio, gosto de música e TCG.
 
 ---
 
