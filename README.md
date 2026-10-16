@@ -28,7 +28,7 @@ Olá, sou o Fábio, gosto de música e TCG.
   <img src="https://img.shields.io/badge/Power_BI-000000?style=for-the-badge&logo=powerbi&logoColor=00FF00&border=00FF00">
 </div>
 
-### `> ping -c 4 contatos`
+### `> ping -c contatos`
 
 <div align="center">
   <a href="https://www.linkedin.com/in/fabio-saruwataru/">
