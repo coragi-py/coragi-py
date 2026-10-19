@@ -5,7 +5,7 @@
 -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00FF00&background=000000&center=true&vCenter=true&width=750&lines=root%40wataru%3A~%23%20F%C3%A1bio%20Y.%20Saruwataru;%3E_Infraestrutura%20%26%20Desenvolvimento;%3E_Engenharia%20de%20Software%20%40%20UMC" alt="Typing Banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00FF00&background=000000&center=true&vCenter=true&width=750&lines=root%40wataru%3A~%23%20F%C3%A1bio%20Yuuki;%3E_Infraestrutura%20%26%20Desenvolvimento;%3E_Engenharia%20de%20Software%20%40%20UMC" alt="Typing Banner" />
 </div>
 
 <br>
